@@ -5,7 +5,7 @@
     "keywords": ["whatsapp", "userbot", "Asena"],
     "repository": "https://github.com/Hansana-Dasanayaka/WhatsAsena",
     "website":   "https://quiec.tech",
-    "success_url": "https://t.me/",
+    "success_url": "https://t.me/TGPythonRobots",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
