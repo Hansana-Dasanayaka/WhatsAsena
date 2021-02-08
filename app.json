@@ -3,9 +3,9 @@
     "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
     "keywords": ["whatsapp", "userbot", "Asena"],
-    "repository": "https://github.com/Quiec/WhatsAsena",
+    "repository": "https://github.com/Hansana-Dasanayaka/WhatsAsena",
     "website":   "https://quiec.tech",
-    "success_url": "https://t.me/AsenaSupport",
+    "success_url": "https://t.me/",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
